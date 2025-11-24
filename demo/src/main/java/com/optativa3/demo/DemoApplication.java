@@ -1,13 +1,13 @@
-package com.optativa.thymeleaf;
+package com.optativa3.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymeleafApplication {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ThymeleafApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
 
 }
